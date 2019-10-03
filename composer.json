@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Solwin_Bannerslider",
+    "name": "openmage-module-fostering\/solwin_bannerslider",
     "type": "magento-module",
-    "license": "OSL-v3.0",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Responsive Banner Slider with fully cusomizable and manageable from admin.",
     "authors": [

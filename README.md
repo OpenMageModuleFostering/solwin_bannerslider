@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 Responsive Banner Slider with fully cusomizable and manageable from admin.
