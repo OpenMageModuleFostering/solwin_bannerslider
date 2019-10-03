@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Solwin_Bannerslider",
+    "name": "OpenMageModuleFostering\/Solwin_Bannerslider",
     "type": "magento-module",
     "license": "OSL-v3.0",
     "homepage": "",
     "description": "Responsive Banner Slider with fully cusomizable and manageable from admin.",
     "authors": [
-    {
-        "name": "Sanjay Dabhoya",
-        "email": "stdabhoya@yahoo.com"
-    }
-],
+        {
+            "name": "Sanjay Dabhoya",
+            "email": "stdabhoya@yahoo.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
